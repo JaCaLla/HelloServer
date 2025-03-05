@@ -1,6 +1,6 @@
 # Vapor API
 
-This is a simple Vapor-based API that serves a single endpoint to return a greeting message with environment variables.
+This is a simple Vapor-based API that serves a single endpoint to return a greeting message with environment variables. This is the base code used in following posts [Customizing Vapor Server Configurations](https://javios.eu/swift/swift-package-manager-simplified/) 
 
 ## Features
 - Implements a single endpoint `/hello`
